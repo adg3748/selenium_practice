@@ -1,4 +1,4 @@
-require 'bundler/setup'
+require 'bundler/setup' # import gems in vendor/bundle
 require 'capybara/rspec'
  
 # seleniumでchoromeを使用する
